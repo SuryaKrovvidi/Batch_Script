@@ -7,7 +7,7 @@ Here's a script which gets the task done with a single line written on the conso
 
 How to use:
 1) Download the 'run.bat' file and place it in your current working directory.
-2) Type 'run.bat<space>MainClassName<space>argumentlist(if any)' and hit Enter.
+2) Type 'run.bat MainClassName argumentlist(if any)' and hit Enter.
 
 Example:
 Let the main class name be Sum and I have to pass two integers as command line arguments.
